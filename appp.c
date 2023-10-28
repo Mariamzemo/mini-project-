@@ -5,14 +5,6 @@
  *      Author: Maryam
  */
 
-/*
- * APP.C
- *
- *  Created on: Oct 21, 2023
- *      Author: Maryam
- */
-
-
 #include "ultra.h"
 
 #include "lcd.h"
